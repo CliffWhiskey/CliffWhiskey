@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @CliffWhiskey
 - 👀 I’m interested in ... a plethora of activities
-- 🌱 I’m currently learning ... MERN Full Stack Development at MIT online as a certificate 
+- 🌱 I’m currently learning ... MERN Full Stack Development at MIT online as a certificate 
 - 💞️ I’m looking to collaborate on ... To Be Determined, but likely healthcare related in nature.
 - 📫 How to reach me ... email: Cliffwms66@gmail.com
 
-Name: Repository of Cliff Williams @CliffWhiskey 
-Description: I am new to coding. I have over 10 years healthcare systems administration and full lifecycle support for many Diagnosic Imaging applictions 
+Name: Repository of Cliff Williams @CliffWhiskey 
+Description: I am new to coding. I have over 10 years of healthcare systems administration and full lifecycle support for many Diagnostic Imaging applications 
 Installation: There will not be anything that needs to be installed for programs found here.
-Usage: The purpose for programs found here is strictly for demostration and analytical purposes of code that I have written and chose to display on this github.
-Support: no support is offered or implied. However, I am will to answer questions, within reason, at the email listed above. (As there is no support offered, there in no ETA or SLA on response times. email at your own risk.
+Usage: The purpose for programs found here is strictly for demonstration and analytical purposes of code that I have written and chose to display on this GitHub.
+Support: no support is offered or implied. However, I am willing to answer questions, within reason, at the email listed above. (As there is no support offered, there is no ETA or SLA on response times. email at your own risk.
 Roadmap: To Be Determined. Future employment prospects.
 License information: MIT License
 
@@ -31,9 +31,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-
 
 
 <!---
