@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Cliff Williams => @CliffWhiskey
 - 👀 I’m interested in ... a plethora of activities
-- 🌱 I’m currently learning ... MERN Full Stack Development at MIT online as a certificate to completed June 2023
-- 💞️ I’m looking to collaborate on ... To Be Determined, but likely healthcare related in nature.
-- 📫 How to reach me ... email: Cliffwms66@gmail.com
+- 🌱 I’m currently learning ... Purdue University Simpilearn AI and Machine learning
+- 💞️ I’m looking to collaborate on ... To Be Determined, but likely healthcare-related in nature.
+- 📫 How to reach me ... email: Clwmcse@gmail.com
 
 Name: Repository of Cliff Williams @CliffWhiskey 
 Description: I am new to coding. I have over 10 years of healthcare systems administration and full lifecycle support for many Diagnostic Imaging applications 
